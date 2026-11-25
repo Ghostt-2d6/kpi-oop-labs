@@ -1,0 +1,8 @@
+LineOOShape	483	60	483	214
+EllipseShape	562	82	601	128
+RectShape	167	278	244	319
+LineShape	326	312	417	208
+PointShape	297	203	297	203
+PointShape	275	279	275	279
+PointShape	594	302	594	302
+PointShape	576	143	576	143
